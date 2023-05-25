@@ -38,7 +38,7 @@ import java.util.LinkedHashMap;
  * </code>
  */
 @RequestScoped
-@RegisterRestClient(baseUri = "https://dmit2015-1223-swu-demos-default-rtdb.firebaseio.com")
+@RegisterRestClient(baseUri = "https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com")
 public interface StudentMpRestClient {
 
     final String DOCUMENT_URL = "/Student";

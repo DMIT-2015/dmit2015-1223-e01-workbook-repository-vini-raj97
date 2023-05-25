@@ -1,4 +1,4 @@
-package dmit2015.dmit2015facesfirebasedemoviniraj;
+package dmit2015facesfirebasedemoviniraj;
 
 import java.io.*;
 

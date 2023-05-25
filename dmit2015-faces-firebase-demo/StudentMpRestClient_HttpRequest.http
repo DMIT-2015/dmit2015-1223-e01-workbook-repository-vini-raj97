@@ -9,7 +9,7 @@ Content-Type: application/json
 }
 
 ### Create a new document
-POST https://dmit2015-1223-swu-demos-default-rtdb.firebaseio.com/Student.json
+POST https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student.json
 Content-Type: application/json
 
 {
@@ -18,7 +18,7 @@ Content-Type: application/json
 }
 
 ### Create a new document
-POST https://dmit2015-1223-swu-demos-default-rtdb.firebaseio.com/Student.json
+POST https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student.json
 Content-Type: application/json
 
 {
@@ -31,10 +31,10 @@ Content-Type: application/json
 GET https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student.json
 
 ### GET One document by key
-GET https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/primaryKeyValue.json
+GET https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/-NWAhCanU0rjZ4sWJ2_r.json
 
 ### UPDATE document - will replace all properties with the properties in the request body - if you miss a property it will be removed
-PUT https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/primaryKeyValue.json
+PUT https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/-NWAhCanU0rjZ4sWJ2_r.json
 Content-Type: application/json
 
 {
@@ -43,11 +43,11 @@ Content-Type: application/json
 }
 
 ### DELETE document - use this if you want to delete a document
-DELETE https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/primaryKeyValue.json
+DELETE https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/-NWAhN6Og2Fk-TyuQhpD.json
 
 
 ### PATCH document - use this if you want to update some of the properties but not all of them
-PATCH https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/primaryKeyValue.json
+PATCH https://dmit2015-1223-vini-raj97-demos-default-rtdb.firebaseio.com/Student/-NWAhCanU0rjZ4sWJ2_r.json
 Content-Type: application/json
 
 {
