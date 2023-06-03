@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"l":"ca.nait.dmit.domin"},{"l":"dmit2015.faces"},{"l":"dmit2015.restclient"},{"l":"dmit2015facesfirebasedemoviniraj"}];updateSearchResults();
